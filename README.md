@@ -1,2 +1,2 @@
 # spaceship
-OpenGL stuff
+I want to build a spaceship
