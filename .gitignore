@@ -1,0 +1,6 @@
+# Compiled binaries
+*.out
+*.exe
+*.app
+*.bin
+
